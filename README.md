@@ -63,7 +63,7 @@ Follow these steps to run the PR Guardian on your own machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Ashish-Patnaik/Portia-PR-Guardian.git
 cd your-repo-name
 ```
 
