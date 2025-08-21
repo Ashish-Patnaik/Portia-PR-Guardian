@@ -18,6 +18,9 @@ Built for AgentHack 2025, this project showcases the power of Portia AI's contro
 
 A quick demonstration of the PR Guardian analyzing a flawed pull request and posting a review comment after user approval.
 
+<img width="1359" height="561" alt="image" src="https://github.com/user-attachments/assets/c54aa0ae-55ed-4c8c-8cdf-4d1ee2265a95" />
+
+
 [Demo](https://youtu.be/4lL4rcODJlU)
 
 
