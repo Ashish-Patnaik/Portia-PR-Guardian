@@ -85,8 +85,6 @@ The project requires the packages listed in requirements.txt.
 pip install -r requirements.txt
 ```
 
-*(Make sure your requirements.txt file contains streamlit, portia-sdk-python[google], PyGithub, requests, and python-dotenv.)*
-
 ### 4. Run the Streamlit App
 
 ```bash
@@ -114,3 +112,5 @@ Click "Save Keys" to activate the agent.
 ## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+Made with ❤️ by Ashish Patnaik
