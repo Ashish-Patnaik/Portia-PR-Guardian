@@ -1,0 +1,6 @@
+portia-sdk-python[google]
+python-dotenv
+PyGithub
+requests
+gradio
+streamlit
